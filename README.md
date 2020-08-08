@@ -1,5 +1,5 @@
 # spamBomber
-Say goodbye to macros, and hello to this clumsy script I wrote.
+Stupid batch program that simulates key presses
 
 This batch file is a simple script that can be run on any windows machine. When run it will simply ask you for a:
 
